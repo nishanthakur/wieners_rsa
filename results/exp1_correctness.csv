@@ -1,0 +1,11 @@
+bits,key_type,trials,recovered,success_rate
+128,weak,100,100,1.0
+128,standard,100,0,0.0
+256,weak,100,100,1.0
+256,standard,100,0,0.0
+512,weak,100,100,1.0
+512,standard,100,0,0.0
+1024,weak,100,100,1.0
+1024,standard,100,0,0.0
+2048,weak,100,100,1.0
+2048,standard,100,0,0.0
